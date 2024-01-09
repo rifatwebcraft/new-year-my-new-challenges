@@ -160,3 +160,60 @@ body {
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 400;
+}
+
+.holidays-section-content {
+    text-align: center;
+}
+.holidays-section-content h3 {
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 10px;
+}
+.holidays-section-content h1 {
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900;
+    margin: 10px;
+}
+.holidays-section-content span {
+    color: #F00;
+}
+.holidays-section-content p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;;
+    font-weight: 500;
+    margin: 0 250px;
+    margin-top: 30px;
+}
+
+
+.holidays-section-image {
+    background-image: url(../images/Rectangle\ 2.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    margin-top: 65px;
+}
+.holidays-section-info-image {
+    display: flex;
+}
+.lady-pic {
+    position: relative;
+    bottom: -4px;
+    right: -96px;
+    width: 430px;
+    height: 430px;
+}
+
+.discount-pic {
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    right: 36%;
+    margin-top: 95px;
+}
+
+
+
+  
